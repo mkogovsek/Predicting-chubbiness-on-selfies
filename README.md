@@ -29,7 +29,7 @@ The project was inspired by these generous researchers who share their knowledge
 - Generate Realistic Human Face using GAN. KD Nuggets article authored by Nagesh Singh Chauhan. URL: https://www.kdnuggets.com/2020/03/generate-realistic-human-face-using-gan.html
 <br><br>
 ### USEFUL HOW TO ARTICLES: 
-<br>
+<br><br>
 - CelebA face dataset, a translation of the Chinese blog post about the metadata of the CelebA dataset. URL: https://www.programmersought.com/article/35243862640/
 - Load all images from a folder using PIL, Stackoverflow, May 27, 2018. URL: <br> https://stackoverflow.com/questions/50557468/load-all-images-from-a-folder-using-pil
 - Move files python according value columns, Stackoverflow, February 25, 2019. URL: https://stackoverflow.com/questions/54862852/move-files-python-according-value-columns
