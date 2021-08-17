@@ -28,7 +28,7 @@ The project was inspired by these generous researchers who share their knowledge
 - Facial Attribute Recognition using CNN https://www.kaggle.com/akshat0007/facial-attribute-recognition-using-cnn
 - Generate Realistic Human Face using GAN. KD Nuggets article authored by Nagesh Singh Chauhan. URL: https://www.kdnuggets.com/2020/03/generate-realistic-human-face-using-gan.html
 <br><br>
-### USEFUL HOW TO ARTICLES: 
+## USEFUL HOW TO ARTICLES: 
 <br><br>
 - CelebA face dataset, a translation of the Chinese blog post about the metadata of the CelebA dataset. URL: https://www.programmersought.com/article/35243862640/
 - Load all images from a folder using PIL, Stackoverflow, May 27, 2018. URL: <br> https://stackoverflow.com/questions/50557468/load-all-images-from-a-folder-using-pil
